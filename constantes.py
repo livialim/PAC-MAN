@@ -1,0 +1,8 @@
+LARGURA = 480
+ALTURA = 600
+
+TITULO_JOGO = 'PACMAN'
+
+FPS = 30
+
+PRETO = (0, 0, 0)
